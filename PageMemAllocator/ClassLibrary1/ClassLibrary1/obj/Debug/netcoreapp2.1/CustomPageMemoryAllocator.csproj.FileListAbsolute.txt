@@ -1,0 +1,27 @@
+C:\Users\Home\Desktop\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ClassLibrary1\bin\Debug\netcoreapp2.1\CustomPageMemoryAllocator.deps.json
+C:\Users\Home\Desktop\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ClassLibrary1\bin\Debug\netcoreapp2.1\CustomPageMemoryAllocator.dll
+C:\Users\Home\Desktop\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ClassLibrary1\bin\Debug\netcoreapp2.1\CustomPageMemoryAllocator.pdb
+C:\Users\Home\Desktop\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ClassLibrary1\obj\Debug\netcoreapp2.1\CustomPageMemoryAllocator.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ClassLibrary1\obj\Debug\netcoreapp2.1\CustomPageMemoryAllocator.AssemblyInfo.cs
+C:\Users\Home\Desktop\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ClassLibrary1\obj\Debug\netcoreapp2.1\CustomPageMemoryAllocator.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ClassLibrary1\obj\Debug\netcoreapp2.1\CustomPageMemoryAllocator.dll
+C:\Users\Home\Desktop\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ClassLibrary1\obj\Debug\netcoreapp2.1\CustomPageMemoryAllocator.pdb
+C:\Users\Home\Desktop\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ClassLibrary1\obj\Debug\netcoreapp2.1\CustomPageMemoryAllocator.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\3 курс\OS\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ClassLibrary1\bin\Debug\netcoreapp2.1\CustomPageMemoryAllocator.deps.json
+C:\Users\Home\Desktop\3 курс\OS\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ClassLibrary1\bin\Debug\netcoreapp2.1\CustomPageMemoryAllocator.dll
+C:\Users\Home\Desktop\3 курс\OS\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ClassLibrary1\bin\Debug\netcoreapp2.1\CustomPageMemoryAllocator.pdb
+C:\Users\Home\Desktop\3 курс\OS\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ClassLibrary1\obj\Debug\netcoreapp2.1\CustomPageMemoryAllocator.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\3 курс\OS\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ClassLibrary1\obj\Debug\netcoreapp2.1\CustomPageMemoryAllocator.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\3 курс\OS\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ClassLibrary1\obj\Debug\netcoreapp2.1\CustomPageMemoryAllocator.AssemblyInfo.cs
+C:\Users\Home\Desktop\3 курс\OS\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ClassLibrary1\obj\Debug\netcoreapp2.1\CustomPageMemoryAllocator.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\3 курс\OS\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ClassLibrary1\obj\Debug\netcoreapp2.1\CustomPageMemoryAllocator.dll
+C:\Users\Home\Desktop\3 курс\OS\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ClassLibrary1\obj\Debug\netcoreapp2.1\CustomPageMemoryAllocator.pdb
+C:\Users\natal\OneDrive\Рабочий стол\KPI IP-81\3 курс 2020-21\OS\lab2\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ClassLibrary1\bin\Debug\netcoreapp2.1\CustomPageMemoryAllocator.deps.json
+C:\Users\natal\OneDrive\Рабочий стол\KPI IP-81\3 курс 2020-21\OS\lab2\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ClassLibrary1\bin\Debug\netcoreapp2.1\CustomPageMemoryAllocator.dll
+C:\Users\natal\OneDrive\Рабочий стол\KPI IP-81\3 курс 2020-21\OS\lab2\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ClassLibrary1\bin\Debug\netcoreapp2.1\CustomPageMemoryAllocator.pdb
+C:\Users\natal\OneDrive\Рабочий стол\KPI IP-81\3 курс 2020-21\OS\lab2\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ClassLibrary1\obj\Debug\netcoreapp2.1\CustomPageMemoryAllocator.csprojAssemblyReference.cache
+C:\Users\natal\OneDrive\Рабочий стол\KPI IP-81\3 курс 2020-21\OS\lab2\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ClassLibrary1\obj\Debug\netcoreapp2.1\CustomPageMemoryAllocator.AssemblyInfoInputs.cache
+C:\Users\natal\OneDrive\Рабочий стол\KPI IP-81\3 курс 2020-21\OS\lab2\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ClassLibrary1\obj\Debug\netcoreapp2.1\CustomPageMemoryAllocator.AssemblyInfo.cs
+C:\Users\natal\OneDrive\Рабочий стол\KPI IP-81\3 курс 2020-21\OS\lab2\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ClassLibrary1\obj\Debug\netcoreapp2.1\CustomPageMemoryAllocator.csproj.CoreCompileInputs.cache
+C:\Users\natal\OneDrive\Рабочий стол\KPI IP-81\3 курс 2020-21\OS\lab2\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ClassLibrary1\obj\Debug\netcoreapp2.1\CustomPageMemoryAllocator.dll
+C:\Users\natal\OneDrive\Рабочий стол\KPI IP-81\3 курс 2020-21\OS\lab2\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ClassLibrary1\obj\Debug\netcoreapp2.1\CustomPageMemoryAllocator.pdb

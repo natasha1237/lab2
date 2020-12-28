@@ -1,0 +1,44 @@
+C:\Users\Anna\source\repos\ClassLibrary1\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.deps.json
+C:\Users\Anna\source\repos\ClassLibrary1\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.runtimeconfig.json
+C:\Users\Anna\source\repos\ClassLibrary1\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.runtimeconfig.dev.json
+C:\Users\Anna\source\repos\ClassLibrary1\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.dll
+C:\Users\Anna\source\repos\ClassLibrary1\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.pdb
+C:\Users\Anna\source\repos\ClassLibrary1\ConsoleApp\bin\Debug\netcoreapp2.1\ClassLibrary1.dll
+C:\Users\Anna\source\repos\ClassLibrary1\ConsoleApp\bin\Debug\netcoreapp2.1\ClassLibrary1.pdb
+C:\Users\Anna\source\repos\ClassLibrary1\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Anna\source\repos\ClassLibrary1\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Anna\source\repos\ClassLibrary1\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Anna\source\repos\ClassLibrary1\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\Anna\source\repos\ClassLibrary1\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.csproj.CopyComplete
+C:\Users\Anna\source\repos\ClassLibrary1\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.dll
+C:\Users\Anna\source\repos\ClassLibrary1\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.pdb
+C:\Users\Home\Desktop\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.deps.json
+C:\Users\Home\Desktop\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.runtimeconfig.json
+C:\Users\Home\Desktop\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.runtimeconfig.dev.json
+C:\Users\Home\Desktop\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.dll
+C:\Users\Home\Desktop\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.pdb
+C:\Users\Home\Desktop\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ConsoleApp\bin\Debug\netcoreapp2.1\CustomPageMemoryAllocator.dll
+C:\Users\Home\Desktop\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ConsoleApp\bin\Debug\netcoreapp2.1\CustomPageMemoryAllocator.pdb
+C:\Users\Home\Desktop\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\Home\Desktop\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.csproj.CopyComplete
+C:\Users\Home\Desktop\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.dll
+C:\Users\Home\Desktop\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.pdb
+C:\Users\Home\Desktop\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.genruntimeconfig.cache
+C:\Users\Home\Desktop\3 курс\OS\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.deps.json
+C:\Users\Home\Desktop\3 курс\OS\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.runtimeconfig.json
+C:\Users\Home\Desktop\3 курс\OS\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.runtimeconfig.dev.json
+C:\Users\Home\Desktop\3 курс\OS\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.dll
+C:\Users\Home\Desktop\3 курс\OS\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.pdb
+C:\Users\Home\Desktop\3 курс\OS\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ConsoleApp\bin\Debug\netcoreapp2.1\CustomPageMemoryAllocator.dll
+C:\Users\Home\Desktop\3 курс\OS\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ConsoleApp\bin\Debug\netcoreapp2.1\CustomPageMemoryAllocator.pdb
+C:\Users\Home\Desktop\3 курс\OS\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\3 курс\OS\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\3 курс\OS\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\Home\Desktop\3 курс\OS\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\3 курс\OS\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.csproj.CopyComplete
+C:\Users\Home\Desktop\3 курс\OS\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.dll
+C:\Users\Home\Desktop\3 курс\OS\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.pdb
+C:\Users\Home\Desktop\3 курс\OS\PageMemoryAllocator-main\PageMemAllocator\ClassLibrary1\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.genruntimeconfig.cache

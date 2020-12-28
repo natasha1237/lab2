@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ep9f/h1r3zXhX9e3ejTca4c7Q9BzhxG3Z2AbSzn6V0bmeNX6DoLMDkIUbR1fPaeC8mcrlv5KgpV9ICzgtqiSfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\natal\\OneDrive\\Рабочий стол\\KPI IP-81\\3 курс 2020-21\\OS\\lab2\\PageMemoryAllocator-main\\PageMemAllocator\\ClassLibrary1\\ClassLibrary1\\CustomPageMemoryAllocator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\natal\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\natal\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\natal\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\natal\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\natal\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\natal\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\natal\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
